@@ -1,0 +1,17 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "clientId": "DISCORD_CLIENT_ID",
+  "guildId": "TEST_GUILD_ID",
+
+  "gmail": {
+    "adres": "botmail@gmail.com",
+    "sifre": "GMAIL_APP_PASSWORD"
+  },
+
+  "verification": {
+    "verifiedRole": "ROLE_ID",
+    "codeExpiryMinutes": 5,
+    "maxAttempts": 5,
+    "resendCooldownSeconds": 60
+  }
+}

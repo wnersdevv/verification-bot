@@ -1,0 +1,6 @@
+node_modules/
+ayarlar.json
+*.log
+logs/
+data/
+.DS_Store
